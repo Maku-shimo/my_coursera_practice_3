@@ -1,17 +1,13 @@
 body{
-  background-color: pink;
+  background-color: salmon;
   font-family: "Oxygen", sans-serif;
 }
 #header-nav{
   border-radius: 0;
-  border: 0;
 }
 #nav-list a{
   border: 1px solid black;
-  text-align: center;
 }
 .section{
-  margin-left: 5px;
-  margin-right: 5px;
   background-color: grey;
 }
